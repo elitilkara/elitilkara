@@ -1,3 +1,4 @@
+![imagen URL] (https://github.com/elitilkara/elitilkara/blob/main/WhatsApp%20Image%202026-08-29%20at%209.17.51%20PM.jpeg?raw=true)
 ## Vanesa Elizabeth Ramos
 ## Estudiante del Profesorado de Informática Educativa 
 ## Estoy interesada en la integración de la tecnología en los procesos de enseñanza y aprendizaje. Me interesa continuar desarrollando mis conocimientos en el área de la informática educativa, explorando herramientas y recursos digitales que contribuyan a enriquecer las prácticas educativas.
