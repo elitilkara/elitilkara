@@ -1,4 +1,7 @@
-## Hi there 👋
+## Vanesa Elizabeth Ramos
+## Estudiante del Profesorado de Informática Educativa 
+## Estoy interesada en la integración de la tecnología en los procesos de enseñanza y aprendizaje. Me interesa continuar desarrollando mis conocimientos en el área de la informática educativa, explorando herramientas y recursos digitales que contribuyan a enriquecer las prácticas educativas.
+En mi tiempo libre disfruto realizar senderismo y actividades en contacto con la naturaleza
 
 <!--
 **elitilkara/elitilkara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
